@@ -10,7 +10,7 @@
     "highlight.js": "^10.4.1",
     "lowlight": "^1.17.0",
     "prismjs": "^1.22.0",
-    "refractor": "^3.2.0"
+    "refractor": "^4.1.0"
   },
   "jest": {
     "coverageDirectory": "./coverage/",
